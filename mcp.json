@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "perfect-mail": {
+      "type": "http",
+      "url": "https://sxcmzikeyzslnagtporw.supabase.co/functions/v1/mcp",
+      "placement": "server"
+    }
+  }
+}

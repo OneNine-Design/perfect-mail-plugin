@@ -1,0 +1,41 @@
+{
+  "name": "perfect-mail",
+  "displayName": "Perfect Mail",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "never",
+    "grokbot": "0.52.0",
+    "sand": "0.52.0"
+  },
+  "description": "Your Perfect Mail inbox for Grok Bot. Search your mail by sender, words or date, keep your to-dos, and look up your notes and the pieces of email you saved. Your Bot sees only your own mail and acts as you.",
+  "author": {
+    "name": "Perfect Mail",
+    "email": "n@useperfect.com"
+  },
+  "publisher": "Perfect Mail",
+  "homepage": "https://tryperfectmail.com",
+  "repository": "https://github.com/OneNine-Design/perfect-mail-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "perfect mail",
+    "email",
+    "inbox",
+    "gmail",
+    "search",
+    "to-dos",
+    "notes",
+    "grok",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "perfect-mail",
+    "email",
+    "productivity",
+    "grok",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json",
+  "skills": "./skills/"
+}
