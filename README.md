@@ -29,7 +29,7 @@ Or ask your Bot to connect Perfect Mail.
   "mcpServers": {
     "perfect-mail": {
       "type": "http",
-      "url": "https://sxcmzikeyzslnagtporw.supabase.co/functions/v1/mcp",
+      "url": "https://api.tryperfectmail.com/functions/v1/mcp",
       "placement": "server"
     }
   }

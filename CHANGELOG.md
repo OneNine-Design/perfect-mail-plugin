@@ -2,6 +2,10 @@
 
 All notable changes to this plugin will be documented here.
 
+## 1.0.1
+
+- The MCP server's address is now `https://api.tryperfectmail.com/functions/v1/mcp`, Perfect Mail's own address for its backend, so the plugin keeps working when the backend moves. Bots connected through 1.0.0 sign in again once.
+
 ## 1.0.0 (initial release)
 
 - Added the `perfect-mail` MCP server pointing at Perfect Mail's hosted Streamable HTTP endpoint, declared `placement: "server"` so Grok Bot (desktop and mobile) connects through the hosted path.
